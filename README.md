@@ -18,7 +18,7 @@ Após digitar as informações solicitadas pelo plugin, clique em **Criar Estrut
 - Cria o bot e dar um nome a ele
 - Acessar o Builder e fazer uma publicação (Para adicionar o bot como um serviço é preciso publicar mesmo que não tenha nada lá rs)
 - Navergar no menu horizontal do blip -> menu "..." -> Extensões e ativar o Plugin BigID
-Apos instalado e ativado, adicionar as variaveis Usuário, Senha e Expiração do token
+- Apos instalado e ativado, adicionar as variaveis Usuário, Senha e Expiração do token
 - Clicar em Criar Estrutura
 - Feito isso, vai aparecer uma popup no rodapé com a informalção de sucesso ou erro
 - Volte ao builder e veja se a fluxo foi carregado
